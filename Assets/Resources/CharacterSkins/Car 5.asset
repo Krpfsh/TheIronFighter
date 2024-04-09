@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dca0176d1d774a44b6d3b60a2fff1b4, type: 3}
+  m_Name: Car 5
+  m_EditorClassIdentifier: 
+  <modelImage>k__BackingField: {fileID: 21300000, guid: 50d0746fc5d579c4cbc812bd3bcc71e0, type: 3}
+  <Model>k__BackingField: {fileID: 6749706727581545574, guid: 80012850e8a48f141bbeb9b9750d7179, type: 3}
+  <Name>k__BackingField: Tank5
+  <Price>k__BackingField: 1500
+  <SkinType>k__BackingField: 5
