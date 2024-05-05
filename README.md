@@ -1,6 +1,6 @@
 # The Iron Fighter
 ## URL 
-*на модерации
+https://yandex.ru/games/app/327335
 ### Description / Описание
 The Iron Fighter game is a simple and casual game in which there is a place for every player, it combines simplicity and convenience. Get ready to immerse yourself in the fascinating world of guns and tanks.🔥 
 
